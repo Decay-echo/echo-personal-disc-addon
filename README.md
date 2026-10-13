@@ -24,5 +24,6 @@ The patch is [nmdurkee's Personal Disc Everywhere](https://github.com/nmdurkee/E
 (v3.0.1), continued here as v3.5 (the disc stays from a goal until the launcher countdown ends,
 no arm popup). It is redistributed here without a licence from its author; it comes down the
 day he asks. DiscButton by Decay-echo. [MinHook](https://github.com/TsudaKageyu/minhook) (BSD
-2-Clause, `discbutton\minhook\LICENSE.txt`). No Echo VR files are included: the patch edits
-your own game's DLLs on your PC.
+2-Clause, `discbutton\minhook\LICENSE.txt`). The patch edits your own game's DLLs on your PC;
+`originals\` carries the two original script DLLs of the final build so the pack's INSTALL can put
+one back that another mod changed (see originals\README.txt).
